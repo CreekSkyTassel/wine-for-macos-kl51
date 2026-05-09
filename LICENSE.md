@@ -1,4 +1,4 @@
-
+Enhance Wine for macOS with automatic Wine for macOS Automation | drag-and-drop-support + network-configuration, the #1 automation. Includes drag-and-drop-support and
 
 
 
